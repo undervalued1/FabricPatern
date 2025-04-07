@@ -1,0 +1,14 @@
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\bin\Debug\net8.0\FabricPatern.exe
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\bin\Debug\net8.0\FabricPatern.deps.json
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\bin\Debug\net8.0\FabricPatern.runtimeconfig.json
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\bin\Debug\net8.0\FabricPatern.dll
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\bin\Debug\net8.0\FabricPatern.pdb
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\FabricPatern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\FabricPatern.AssemblyInfoInputs.cache
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\FabricPatern.AssemblyInfo.cs
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\FabricPatern.csproj.CoreCompileInputs.cache
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\FabricPatern.dll
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\refint\FabricPatern.dll
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\FabricPatern.pdb
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\FabricPatern.genruntimeconfig.cache
+C:\Users\st310-02\Documents\Yalymov PR-32\ИСРПО\FabricPatern\obj\Debug\net8.0\ref\FabricPatern.dll
